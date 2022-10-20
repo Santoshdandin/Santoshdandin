@@ -1,8 +1,8 @@
-### Hi there 👋 ### <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
-<div align="center" display="flex">
- 
+<div>
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
 </div>
+### Hi there 👋 <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
+
 
  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
   
