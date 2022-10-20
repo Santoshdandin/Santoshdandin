@@ -68,21 +68,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santoshsdandin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/santusb427) 
 
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santoshsdandin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/santusb427) 
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Santoshdandin&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santoshdandin&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Santoshdandin&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Santoshdandin&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshdandin&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Santoshdandin"><img alt="Santoshdandin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Santoshdandin&custom_title=Santoshdandin's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
- 
- 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Santoshdandin&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Santoshdandin&icon=0&color=0)](https://visitcount.itsvg.in)
