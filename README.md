@@ -61,7 +61,7 @@
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santoshsdandin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/santusb427) 
 
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Santoshdandin&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santoshdandin&theme=merko&hide_border=false)<br/>
@@ -71,7 +71,9 @@
   <br/>
    <a href="https://github.com/udhai-20"><img alt="udhai-20's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&custom_title=udhai-20's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  ---
+  
+  </div>
+ 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
