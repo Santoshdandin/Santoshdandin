@@ -2,7 +2,7 @@
 ### <div align="center">I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF3L4FPUShU7Iq8FXP8Z8NmDAY1lm325fyw&usqp=CAU" align="center" style="width:100%" height="200px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF3L4FPUShU7Iq8FXP8Z8NmDAY1lm325fyw&usqp=CAU" align="center" style="width:100%" />
 </div>  
 
 - 🔭 I’m currently working on Skill development  
