@@ -1,5 +1,5 @@
 ### Hi there 👋
-###<div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
+### <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
 
 
 <div align="center" display="flex">
