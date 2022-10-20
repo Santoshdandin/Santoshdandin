@@ -1,5 +1,5 @@
 <div>
-<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:80%" />
 </div>
 ### Hi there 👋 <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
 
