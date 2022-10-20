@@ -1,7 +1,8 @@
 ### Hi there 👋
-### <div>I'm <h3> Santosh</h3>, aspiring  full-stack web developer 👨‍💻  </div>  
 
-<div align="center">
+
+<div align="center" display="flex">
+  ### <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
 </div>  
 
