@@ -1,13 +1,12 @@
 ### Hi there 👋 ### <div>I'm Santosh, aspiring  full-stack web developer 👨‍💻  </div>  
 
-[ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
   
 
 
 <div align="center" display="flex">
  
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
 </div>  
 
 - 🔭 I’m currently working on Skill development  
