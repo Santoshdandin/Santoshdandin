@@ -1,13 +1,13 @@
 
-### Hi there 👋 I'm Santosh👨‍💻  </div>  
+<h1> Hi there 👋 I'm Santosh👨‍💻  </h1>  
 
 
- 
+ <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
   
 
 <div>
- <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
-<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
+ 
+<img align='center' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width:100%" />
 </div>
   
 
