@@ -18,6 +18,14 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
+
+
+- 👨‍💻 All of my projects are available at:<a href="https://santoshdandin.github.io/"> Portfolio</a>
+
+- <a href="https://drive.google.com/file/d/1E16NCvZC9i-WmX5GKxEWnYaq4p102OdN/view?usp=sharing">💬 Resume</a>
+
+
+- 📫 Reach me : **santoshsdandin@gmail.com**
   
 
 <br/>  
