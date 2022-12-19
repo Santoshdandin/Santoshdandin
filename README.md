@@ -25,7 +25,7 @@
 - <a href="https://drive.google.com/file/d/1E16NCvZC9i-WmX5GKxEWnYaq4p102OdN/view?usp=sharing">💬 Resume</a>
 
 
-- 📫 Reach me : **santoshsdandin@gmail.com**
+- 📫 Mail me : **santoshsdandin@gmail.com**
   
 
 <br/>  
