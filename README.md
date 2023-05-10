@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at:<a href="https://santoshdandin.github.io/"> Portfolio</a>
 
-- <a href="https://drive.google.com/file/d/1E16NCvZC9i-WmX5GKxEWnYaq4p102OdN/view?usp=sharing">💬 Resume</a>
+- <a href="https://drive.google.com/file/d/1pFTCcYrChRD41YDyKtbJSQF8O0FCbAKe/view?usp=sharing">💬 Resume</a>
 
 
 - 📫 Mail me : **santoshsdandin@gmail.com**
